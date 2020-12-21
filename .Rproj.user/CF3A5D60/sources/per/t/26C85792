@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1608519377855.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2550642013",
+    "id" : "26C85792",
+    "lastKnownWriteTime" : 1608519748,
+    "last_content_update" : 1608519748477,
+    "path" : "~/Projects/git-clones/ramumemories/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "162,11",
+        "scrollLine" : "145"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
